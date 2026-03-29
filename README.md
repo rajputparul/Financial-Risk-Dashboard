@@ -7,4 +7,4 @@ Power BI dashboard analyzing financial risk, fraud detection, compliance violati
 - Client Satisfaction Insights  
 
 # Dashboard Preview
-[Dashboard](dashboard.png)
+![Dashboard](dashboard.png)
